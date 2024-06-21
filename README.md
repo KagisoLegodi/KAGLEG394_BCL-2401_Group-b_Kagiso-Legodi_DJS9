@@ -1,15 +1,13 @@
-# 🚀 Welcome to your new awesome project!
+# DJS09: Couch Surfing | Typescript Practice
 
-This project has been created using **webpack-cli**, you can now run
+## Challenge Overview
 
-```
-npm run build
-```
+Are you ready to get stuck into some Typescript? For this challenge, you are required to code along with the lecturer from this lesson:  Couch Surfing Website
 
-or
+For this challenge you are required to code along with the lecturer from this lesson: Learn Typescript Tutorial
 
-```
-yarn build
-```
+The focus for this project will be to understand the concepts around a JavaScript superset like Typescript and to get a feel for how it works. You will need to submit the finished Couch Surfing Website as your DJS09 Submission. 
 
-to bundle your application
+**🚨 Note: You will need to make GitHub commits to your project after each lesson in the Scrimba walkthrough, showing that you have followed along with the lessons.**
+
+Make sure to submit your project on the LMS Project Tab [DJS09] 
